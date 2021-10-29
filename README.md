@@ -15,6 +15,7 @@ Upon opening the website on a browser, the user can check some of Lyza's picture
 </br>
 </br>
 The portfolio can be accessed through by through here: https://padredilg.github.io/photo-port/
+</br>
 <img alt="screenshot from website" src="./src/assets/readme/pp-ss.png"></img>
 
 ## License
